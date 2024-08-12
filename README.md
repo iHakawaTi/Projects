@@ -1,1 +1,1 @@
-# Hello there, these are my dedicated projects on data science, they range from dealing with data using python to machine learning models, thanks!
+# Hello there, these are my dedicated projects on data science provided by DataCamp, they range from dealing with data using python to machine learning models, thanks!
